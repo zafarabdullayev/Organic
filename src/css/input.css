@@ -1,0 +1,20 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Yellowtail&display=swap');
+
+.container{
+    max-width: 1380px;
+    width: 100%;
+  
+}
+@font-face {
+    font-family: "Yellowtail";
+    src: url(../assets/fonts/Yellowtail-Regular.ttf);
+}
+@font-face {
+    font-family: "Roboto";
+    src: url(../assets/fonts/Roboto-VariableFont_wdth\,wght.ttf);
+}
+@font-face {
+    font-family:'Open sans';
+    src: url(../assets/fonts/OpenSans-Italic-VariableFont_wdth\,wght.ttf);
+}
